@@ -2,7 +2,7 @@
 ### Este projeto é uma simples aplicação web que permite ao usuário alterar a cor de fundo do site ao clicar em um botão.
 ![image](https://github.com/user-attachments/assets/fee13649-bb47-4ac4-aad2-a37c8fc6a8c2)
 
-## [Clique aqui para acessar](https://jp-beltran.github.io/button-changebg/)
+### [Clique aqui para acessar](https://jp-beltran.github.io/button-changebg/)
 
 
 
